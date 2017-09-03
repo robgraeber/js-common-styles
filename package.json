@@ -1,0 +1,11 @@
+{
+    "name": "js-common-styles",
+    "version": "1.0.0",
+    "description": "JS style sheet for common styles",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT"
+}
